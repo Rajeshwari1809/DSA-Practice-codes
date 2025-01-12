@@ -1,0 +1,26 @@
+package com.app.strings;
+
+import java.util.Scanner;
+
+public class Strings {
+
+	
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		
+		System.out.println("enter string ");
+		String s1=sc.next();
+		
+		int n=s1.length();
+		for(int i=n; i>=0; i++)
+		{
+			System.out.println(s1.charAt(i));
+		}
+		
+		
+		
+		
+	
+		
+	}
+}

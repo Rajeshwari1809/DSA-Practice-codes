@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.app.STRING&apos; to &apos;com.app.strings&apos;&#x0D;&#x0A;- Original project: &apos;DSAcodes&apos;&#x0D;&#x0A;- Original element: &apos;DSAcodes/src/com.app.STRING&apos;&#x0D;&#x0A;- Renamed element: &apos;DSAcodes/src/com.app.strings&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.app.STRING&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.app.STRING" name="com.app.strings" qualified="false" references="true" stamp="1736581725216" textual="false" version="1.0"/>
+</session>

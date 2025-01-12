@@ -1,0 +1,10 @@
+package com.app.bitmanipulation;
+
+public class clearOperationn {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
